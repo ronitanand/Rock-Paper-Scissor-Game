@@ -84,5 +84,10 @@ p{
 }
 
 
-
+@media screen and  (max-width:500px) {
+    .score{
+        width: 170px;
+        margin: 15px auto;
+    }
+}
 
